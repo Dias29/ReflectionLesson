@@ -1,0 +1,6 @@
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionLesson\ReflectionLesson\bin\Debug\ReflectionLesson.exe.config
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionLesson\ReflectionLesson\bin\Debug\ReflectionLesson.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionLesson\ReflectionLesson\bin\Debug\ReflectionLesson.pdb
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionLesson\ReflectionLesson\obj\Debug\ReflectionLesson.csprojResolveAssemblyReference.cache
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionLesson\ReflectionLesson\obj\Debug\ReflectionLesson.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionLesson\ReflectionLesson\obj\Debug\ReflectionLesson.pdb

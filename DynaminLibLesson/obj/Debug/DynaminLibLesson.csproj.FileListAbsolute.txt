@@ -1,0 +1,5 @@
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionLesson\DynaminLibLesson\bin\Debug\DynaminLibLesson.exe.config
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionLesson\DynaminLibLesson\bin\Debug\DynaminLibLesson.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionLesson\DynaminLibLesson\bin\Debug\DynaminLibLesson.pdb
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionLesson\DynaminLibLesson\obj\Debug\DynaminLibLesson.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionLesson\DynaminLibLesson\obj\Debug\DynaminLibLesson.pdb
